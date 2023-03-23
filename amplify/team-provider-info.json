@@ -1,0 +1,38 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-goohletranslateapi-dev-121117-authRole",
+      "UnauthRoleArn": "arn:aws:iam::880220446724:role/amplify-goohletranslateapi-dev-121117-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::880220446724:role/amplify-goohletranslateapi-dev-121117-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-goohletranslateapi-dev-121117-deployment",
+      "UnauthRoleName": "amplify-goohletranslateapi-dev-121117-unauthRole",
+      "StackName": "amplify-goohletranslateapi-dev-121117",
+      "StackId": "arn:aws:cloudformation:us-east-1:880220446724:stack/amplify-goohletranslateapi-dev-121117/61feec00-c995-11ed-971d-0a2d847b3c75",
+      "AmplifyAppId": "d1uujwojnx0lkq"
+    },
+    "categories": {
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
+  },
+  "mystik": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-goohletranslateapi-mystik-134342-authRole",
+      "UnauthRoleArn": "arn:aws:iam::880220446724:role/amplify-goohletranslateapi-mystik-134342-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::880220446724:role/amplify-goohletranslateapi-mystik-134342-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-goohletranslateapi-mystik-134342-deployment",
+      "UnauthRoleName": "amplify-goohletranslateapi-mystik-134342-unauthRole",
+      "StackName": "amplify-goohletranslateapi-mystik-134342",
+      "StackId": "arn:aws:cloudformation:us-east-1:880220446724:stack/amplify-goohletranslateapi-mystik-134342/4aa69730-c9a2-11ed-91a7-0a417059e593",
+      "AmplifyAppId": "d1uujwojnx0lkq"
+    },
+    "categories": {
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
+  }
+}
